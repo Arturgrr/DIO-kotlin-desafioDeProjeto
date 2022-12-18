@@ -8,3 +8,7 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 ```kotlin
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
+
+# Comentários do aluno
+
+Todos os pedidos foram realizados e podem ser consutlados no repositório original, agradeço a dio pela oportundiade!
