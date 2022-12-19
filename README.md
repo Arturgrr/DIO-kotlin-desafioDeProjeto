@@ -11,4 +11,4 @@ TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.
 
 # Comentários do aluno
 
-Todos os pedidos foram realizados e podem ser consutlados no repositório original, agradeço a dio pela oportundiade!
+Todos os pedidos foram realizados e podem ser consultados no repositório original, agradeço a dio pela oportunidade!
